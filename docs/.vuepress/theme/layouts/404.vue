@@ -16,6 +16,12 @@ const msgs = [
   `How did we get here?`,
   `That's a Four-Oh-Four.`,
   `Looks like we've got some broken links.`
+  `Someone divided by zero.`
+  `Oh, a blank page.`
+  `Whoops that doesn't appear to exist.`
+  `Something isn't right here.`
+  `That page does not exist.`
+  `Are we there yet?`
 ]
 
 export default {
